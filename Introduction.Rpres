@@ -20,14 +20,19 @@ plot(xx, yy, main = "Plot of Original assay vs Modified assay")
 
 Slide With Code
 ========================================================
-How to define an object in r and assign values 
+How to define an object in r and assign values.
+
+We don't want to make this too complicated but keep it simple
+
+Here are a few things we need read apriori to understand this.
+
 
 ```{r}
 
 a <- 25
 b <- 35
 c <- a + b
-c 
+
 
 ```
 
