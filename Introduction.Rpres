@@ -20,9 +20,15 @@ plot(xx, yy, main = "Plot of Original assay vs Modified assay")
 
 Slide With Code
 ========================================================
+How to define an object in r and assign values 
 
 ```{r}
-summary(cars)
+
+a <- 25
+b <- 35
+c <- a + b
+c 
+
 ```
 
 Slide With Plot
