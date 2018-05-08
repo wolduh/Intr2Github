@@ -1,0 +1,33 @@
+Introduction
+========================================================
+author:  Henok Woldu  
+date:    May 07, 2018
+autosize: true
+
+Basic Plot in R
+========================================================
+
+Simple plot in R.
+
+```{r, echo=FALSE}
+
+xx <- rnorm(1000,4.5,2.0)
+yy <- xx + rnorm(1000,0,2.0)
+plot(xx, yy, main = "Plot of Original assay vs Modified assay")
+
+```
+
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
