@@ -34,3 +34,16 @@ Slide With Plot
 ========================================================
 
 ![plot of chunk unnamed-chunk-3](Introduction-figure/unnamed-chunk-3-1.png)
+
+
+New GitKraken Intro
+==================================================
+
+
+```r
+# This is how to use Git kraken in github
+# I can not tell how much I am in love with it
+# Please consider using it 
+# All is to make our collaboration faster
+```
+

@@ -49,3 +49,15 @@ aa <- rnorm(100,2,0.8) # generate a random sample from normal
 bb <- rnorm(100,4,2.3) # generate  a random sample from normal
 plot(aa,bb, col="red")
 ```
+
+
+New GitKraken Intro
+==================================================
+
+```{r}
+# This is how to use Git kraken in github
+# I can not tell how much I am in love with it
+# Please consider using it 
+# All is to make our collaboration faster
+```
+
