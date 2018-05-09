@@ -35,7 +35,7 @@ c <- a + b
 
 d <- a +c
 
-# this is how we can make the changes.
+
 
 
 ```
@@ -44,5 +44,8 @@ Slide With Plot
 ========================================================
 
 ```{r, echo=FALSE}
-plot(cars)
+# here is a simple plot in r
+aa <- rnorm(100,2,0.8) # generate a random sample from normal
+bb <- rnorm(100,4,2.3) # generate  a random sample from normal
+plot(aa,bb, col="red")
 ```
