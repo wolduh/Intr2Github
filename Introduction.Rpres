@@ -33,6 +33,10 @@ a <- 25
 b <- 35
 c <- a + b
 
+d <- a +c
+
+# this is how we can make the changes.
+
 
 ```
 
