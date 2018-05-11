@@ -16,6 +16,10 @@ yy <- xx + rnorm(1000,0,2.0)
 plot(xx, yy, main = "Plot of Original assay vs Modified assay")
 #please make sure this plot does not have a fitted line
 # we wil work on that next week and the week after
+# I am amazed that you are working this hard
+# Please make sure you take care of your self 
+# I am not here to puch you work till you loss meaning of  your life
+# Take care buddy 
 
 ```
 
