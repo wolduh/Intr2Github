@@ -14,6 +14,8 @@ Simple plot in R.
 xx <- rnorm(1000,4.5,2.0)
 yy <- xx + rnorm(1000,0,2.0)
 plot(xx, yy, main = "Plot of Original assay vs Modified assay")
+#please make sure this plot does not have a fitted line
+# we wil work on that next week and the week after
 
 ```
 
