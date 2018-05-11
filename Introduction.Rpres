@@ -43,7 +43,10 @@ a <- 25
 b <- 35
 c <- a + b
 
-d <- a +c
+# This is how we can easiy do the arthemectic in r
+# onece values are assigned to them we can just play with it
+# logic is an interesting part of programming and we will come to that 
+# next if we can do what is right now with plain object assignemtn
 
 
 
